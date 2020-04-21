@@ -1,0 +1,5 @@
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\CourseOnAPI\bin\Release\CourseOnAPI.exe.config
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\CourseOnAPI\bin\Release\CourseOnAPI.exe
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\CourseOnAPI\bin\Release\CourseOnAPI.pdb
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\CourseOnAPI\obj\Release\CourseOnAPI.exe
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\CourseOnAPI\obj\Release\CourseOnAPI.pdb

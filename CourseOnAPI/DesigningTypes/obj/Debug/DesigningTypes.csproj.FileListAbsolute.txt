@@ -1,0 +1,5 @@
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\DesigningTypes\bin\Debug\DesigningTypes.dll
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\DesigningTypes\bin\Debug\DesigningTypes.pdb
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\DesigningTypes\obj\Debug\DesigningTypes.dll
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\DesigningTypes\obj\Debug\DesigningTypes.pdb
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\DesigningTypes\obj\Debug\DesigningTypes.csprojResolveAssemblyReference.cache

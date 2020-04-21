@@ -1,0 +1,13 @@
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\CourseOnAPI\bin\Debug\CourseOnAPI.exe.config
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\CourseOnAPI\bin\Debug\CourseOnAPI.exe
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\CourseOnAPI\bin\Debug\CourseOnAPI.pdb
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\CourseOnAPI\obj\Debug\CourseOnAPI.exe
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\CourseOnAPI\obj\Debug\CourseOnAPI.pdb
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\CourseOnAPI\obj\Debug\CourseOnAPI.csprojResolveAssemblyReference.cache
+E:\OneDrive\Shared\Courses\CourseOnAPI\CourseOnAPI\bin\Debug\CourseOnAPI.exe.config
+E:\OneDrive\Shared\Courses\CourseOnAPI\CourseOnAPI\bin\Debug\CourseOnAPI.exe
+E:\OneDrive\Shared\Courses\CourseOnAPI\CourseOnAPI\bin\Debug\CourseOnAPI.pdb
+E:\OneDrive\Shared\Courses\CourseOnAPI\CourseOnAPI\obj\Debug\CourseOnAPI.csprojResolveAssemblyReference.cache
+E:\OneDrive\Shared\Courses\CourseOnAPI\CourseOnAPI\obj\Debug\CourseOnAPI.csproj.CoreCompileInputs.cache
+E:\OneDrive\Shared\Courses\CourseOnAPI\CourseOnAPI\obj\Debug\CourseOnAPI.exe
+E:\OneDrive\Shared\Courses\CourseOnAPI\CourseOnAPI\obj\Debug\CourseOnAPI.pdb

@@ -1,0 +1,4 @@
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\DesigningTypes\bin\Release\DesigningTypes.dll
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\DesigningTypes\bin\Release\DesigningTypes.pdb
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\DesigningTypes\obj\Release\DesigningTypes.dll
+C:\Users\EngineerSpock\Documents\Visual Studio 2015\Projects\CourseOnAPI\DesigningTypes\obj\Release\DesigningTypes.pdb
